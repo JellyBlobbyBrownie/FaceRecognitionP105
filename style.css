@@ -1,0 +1,25 @@
+body{
+    background: radial-gradient(rgb(170, 232, 192),violet,rgb(160, 213, 236));
+    color: rgb(217, 217, 217);
+    font-size: 20px;
+}
+h3{
+    width: 80%;
+    height: 30px;
+}
+#name_of_objects{
+    color: darkmagenta;
+    font-size: 20px;
+}
+#camera,#result{
+border: 2px dotted ;
+width: 350px;
+height: 300px;
+
+}
+	
+#result_object_name
+#result_object_accuracy
+{
+	color: yellow;
+}
